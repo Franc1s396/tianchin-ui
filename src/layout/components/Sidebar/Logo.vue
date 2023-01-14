@@ -25,7 +25,7 @@ defineProps({
   }
 })
 
-const title = ref('若依管理系统');
+const title = ref('TienChin健身会员');
 const settingsStore = useSettingsStore();
 const sideTheme = computed(() => settingsStore.sideTheme);
 </script>

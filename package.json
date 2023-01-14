@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "tianchin-ui",
   "version": "3.8.3",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "tianchin健身管理系统",
+  "author": "francis",
   "license": "MIT",
   "scripts": {
     "dev": "vite",

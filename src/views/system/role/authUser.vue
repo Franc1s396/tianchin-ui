@@ -47,9 +47,9 @@
             >批量取消授权</el-button>
          </el-col>
          <el-col :span="1.5">
-            <el-button 
-               type="warning" 
-               plain 
+            <el-button
+               type="warning"
+               plain
                icon="Close"
                @click="handleClose"
             >关闭</el-button>
